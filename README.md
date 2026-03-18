@@ -56,4 +56,4 @@ To run this project, it is recommended to use a virtual environment.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME.git](https://github.com/maroahm/ECG-Signal-Quality-Assesment)
+git clone https://github.com/maroahm/ECG-Signal-Quality-Assesment
